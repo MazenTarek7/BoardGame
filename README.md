@@ -1,2 +1,2 @@
 # Individual-projects
-Project done in c/c++
+Project coded in c/c++
